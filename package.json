@@ -1,7 +1,7 @@
 {
-  "name": "cypress-example",
+  "name": "cypress-boilerplate-project",
   "version": "1.0.0",
-  "description": "An example Cypress e2e test project",
+  "description": "This is a cypress-boilerplate-project for e2e testing",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/cypress open"
@@ -13,11 +13,11 @@
     "test",
     "automation"
   ],
-  "author": "Brine",
+  "author": "Niranjan Rath",
   "license": "ISC",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
     "babel-register": "^6.26.0",
-    "cypress": "^1.4.1"
+    "cypress": "^3.1.3"
   }
 }
